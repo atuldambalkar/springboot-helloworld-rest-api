@@ -1,2 +1,1 @@
-# springboot-helloworld-rest-api
-Java Springboot based Hello World Rest API with docker containerizatio and K8s deployment
+https://aws.amazon.com/blogs/containers/aws-fault-injection-simulator-supports-chaos-engineering-experiments-on-amazon-eks-pods/
